@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;900&family=Poppins:wght@400;500;700;900&family=Syne:wght@400;600;700;800&display=swap');
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Syne', sans-serif;
+}
+.logo{
+    height: 30px;
+}
+.nav-btn{
+    border: 1px solid white;
+
+}
+.hero{
+    text-align: center;
+}
+.hero-text{
+    padding: 100px 100px 50px;
+    font-size: 72px;
+    font-weight: 800px;
+}
+.btn{
+    padding-bottom: 100px;
+}
+.btn button{
+    border: none;
+    background-color: #FF9142;
+    padding: 10px 30px;
+}
+.about{
+    padding: 50px 100px;
+}
+.about-title{
+    color: #FFF;
+    font-size: 56px;
+    font-weight: 700;
+
+}
+
+.flex-box2 img{
+    width: 90%;
+    height: 90%;
+    object-fit: contain;
+}
+.feature-section{
+    text-align: center;
+}
+.feature-section h1{
+    font-size: 64px;
+    font-weight: 700;
+}
+.feature-section button{
+    background: transparent;
+    border: 1px solid orange;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1.625px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    color: white;
+}
+.card-text{
+    color: #606060;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px; /* 157.143% */
+    letter-spacing: 0.25px;
+}
+.testi{
+    position: relative;
+}
+.testi img{
+    position: absolute;
+    right: 90px;
+}
+.testi-text{
+    font-size: 64px;
+    font-weight: 700;
+    padding: 20px 0;
+}
+.testi-para{
+    color: #949494;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 20px 200px 20px 0;
+}
+.contact .contact-text{
+    color: #FF9142;
+    font-size: 24px;
+    font-weight: 700;
+}
+.contact a{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+.hr{
+    background-color:#ebe0e0;
+    margin: 30px 0;
+    height: 1px;
+}
+.footer-text{
+    font-size: 24px;
+    font-weight: 700;
+
+}
